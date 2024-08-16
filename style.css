@@ -458,7 +458,7 @@ h1 {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   padding: 5em 15em;
-  background: url(/images/sindh.jpg) center center / cover;
+  background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQvFYo6vmokI8TzT9nAe7buxcd0I4omSJZnIQy_xTSKnrTRl0XW0O53glxha0TM3zrkf2l4GLvFk9R0sA9BjGlqdAl54YLX9BFO9228ks_Rbrgg6pqyckB2INnB6_bwRVB68fU0CUI59Tl/s1600/sindh+culture.jpg) center center / cover;
 }
 
 .concept-two .hover {
@@ -469,7 +469,7 @@ h1 {
 
 .concept-two h1 {
   color: transparent;
-  -webkit-text-stroke: 2px #fff;
+  -webkit-text-stroke: 5px #fff;
   text-shadow: none;
   transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
@@ -483,7 +483,7 @@ h1 {
 
 .concept-three {
   padding: 5em;
-  background: url(/images/balochistan.jpg) center center / cover;
+  background: url(https://img.dunyanews.tv/news/2023/September/09-24-23/news_big_images/757501_60417973.jpg) center center / cover;
 }
 
 .concept-three .word {
@@ -530,7 +530,7 @@ h1 {
   align-items: center;
   justify-content: center;
   letter-spacing: 2em;
-  background: url(/images/kashmir.jpg) no-repeat center center / cover;
+  background: url(https://www.flamingotravels.co.in/_next/image?url=https%3A%2F%2Fimgcdn.flamingotravels.co.in%2FImages%2FCountry%2FJammu%20h%20and%20c.jpg&w=1080&q=75) no-repeat center center / cover;
 }
 
 .concept-four h1 {
@@ -544,7 +544,7 @@ h1 {
 }
 
 .concept-five {
-  background: url(/images/khyber\ pakhtunkhwa.jpeg) center center / cover;
+  background: url(https://i.ytimg.com/vi/5DGJMNe0jxk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCR9xVkjmXzkzYhcfTdy5vGb85tSg) center center / cover;
   display: flex;
   align-items: center;
 }
