@@ -178,6 +178,7 @@ class Circle {
 
 // Initialize animation with canvas
 new Animation(new Canvas('#animation-canvas'));
+Animation = document.body.style.overflowX = "hidden";
 
 // Carousel functionality
 document.addEventListener('DOMContentLoaded', () => {
