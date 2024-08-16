@@ -802,11 +802,13 @@ footer .video video{
   justify-content: center;
   gap: 30px;
   width: 100%;
+  z-index: 1000;
+  background-color: transparent;
 }
 .social-links a{
   text-decoration: none;
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: row;
 }
 
 .social-links a img{
@@ -894,6 +896,12 @@ footer .video video{
   nav ol{
     flex-wrap: wrap;
   }
+
+  .social-links{
+    justify-content: left;
+    display: flex;
+    flex-wrap: wrap;
+  }
 }
 
 /* For mobile phones */
@@ -929,7 +937,5 @@ footer .video video{
     width: 100%;
     font-size: 0.8em;
   }
-  .social-links{
-    justify-content: left;
-  }
+
 }
